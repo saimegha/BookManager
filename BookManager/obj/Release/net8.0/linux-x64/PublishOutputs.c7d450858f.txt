@@ -1,0 +1,11 @@
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\BookManager
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\BookManager.dll
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\BookManager.deps.json
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\BookManager.runtimeconfig.json
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\BookManager.pdb
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EdurampLabs\BookManager\BookManager\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
